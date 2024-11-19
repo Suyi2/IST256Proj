@@ -1,7 +1,7 @@
 ## How to push code to the Git
 
 # use termial
-- cd ~/Desktop/IST256Proj
+- cd /path/to/your/project (for example: cd ~/Desktop/IST256Proj)
 -  git init
 -   git add .
 -     git commit -m "Initial commit"
